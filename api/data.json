@@ -140,10 +140,10 @@
       }
     },
     "latestNews": [
-      { "id": 1, "image": "/img/news-01.png", "eng": { "title": "Created SASS Section", "description": "New SASS Examples & Tutorials", "time": "3 Days Ago" }, "ar": { "title": "إنشاء قسم SASS", "description": "أمثلة وشروحات جديدة لـ SASS", "time": "منذ 3 أيام" } },
-      { "id": 2, "image": "/img/news-02.png", "eng": { "title": "Changed The Design", "description": "A Brand New Website Design", "time": "5 Days Ago" }, "ar": { "title": "تغيير التصميم", "description": "تصميم جديد كلياً للموقع", "time": "منذ 5 أيام" } },
-      { "id": 3, "image": "/img/news-03.png", "eng": { "title": "Team Increased", "description": "3 Developers Joined The Team", "time": "7 Days Ago" }, "ar": { "title": "زيادة الفريق", "description": "انضمام 3 مطورين جدد للفريق", "time": "منذ 7 أيام" } },
-      { "id": 4, "image": "/img/news-04.png", "eng": { "title": "Added Payment Gateway", "description": "Many New Payment Gateways Added", "time": "9 Days Ago" }, "ar": { "title": "إضافة بوابات دفع", "description": "تمت إضافة بوابات دفع جديدة متعددة", "time": "منذ 9 أيام" } }
+      { "id": 1, "image": "./img/news-01.png", "eng": { "title": "Created SASS Section", "description": "New SASS Examples & Tutorials", "time": "3 Days Ago" }, "ar": { "title": "إنشاء قسم SASS", "description": "أمثلة وشروحات جديدة لـ SASS", "time": "منذ 3 أيام" } },
+      { "id": 2, "image": "./img/news-02.png", "eng": { "title": "Changed The Design", "description": "A Brand New Website Design", "time": "5 Days Ago" }, "ar": { "title": "تغيير التصميم", "description": "تصميم جديد كلياً للموقع", "time": "منذ 5 أيام" } },
+      { "id": 3, "image": "./img/news-03.png", "eng": { "title": "Team Increased", "description": "3 Developers Joined The Team", "time": "7 Days Ago" }, "ar": { "title": "زيادة الفريق", "description": "انضمام 3 مطورين جدد للفريق", "time": "منذ 7 أيام" } },
+      { "id": 4, "image": "./img/news-04.png", "eng": { "title": "Added Payment Gateway", "description": "Many New Payment Gateways Added", "time": "9 Days Ago" }, "ar": { "title": "إضافة بوابات دفع", "description": "تمت إضافة بوابات دفع جديدة متعددة", "time": "منذ 9 أيام" } }
     ],
     "latestTasks": [
       { "id": 1, "completed": false, "eng": { "title": "Record One New Video", "description": "Record Python Create Exe Project" }, "ar": { "title": "تسجيل فيديو جديد", "description": "تسجيل مشروع تحويل بايثون لملف Exe" } },
@@ -161,12 +161,12 @@
       { "count": 95, "eng": { "keyword": "Logic" }, "ar": { "keyword": "المنطق البرمجي" } }
     ],
     "latestUploads": [
-      { "src":"/img/pdf.svg","name": "my-file.pdf", "uploader": "Elzero", "size": "2.9mb", "type": "pdf" },
-      { "src":"/img/avi.svg","name": "My-Video-File.avi", "uploader": "Admin", "size": "4.9mb", "type": "avi" },
-      { "src":"/img/psd.svg","name": "My-Psd-File.pdf", "uploader": "Osama", "size": "4.5mb", "type": "psd" },
-      { "src":"/img/zip.svg ","name": "My-Zip-File.pdf", "uploader": "User", "size": "8.9mb", "type": "zip" },
-      { "src":"/img/dll.svg ","name": "My-DLL-File.pdf", "uploader": "Admin", "size": "4.9mb", "type": "dll" },
-      { "src":"/img/eps.svg ","name": "My-Eps-File.pdf", "uploader": "Designer", "size": "8.9mb", "type": "eps" }
+      { "src":"./img/pdf.svg","name": "my-file.pdf", "uploader": "Elzero", "size": "2.9mb", "type": "pdf" },
+      { "src":"./img/avi.svg","name": "My-Video-File.avi", "uploader": "Admin", "size": "4.9mb", "type": "avi" },
+      { "src":"./img/psd.svg","name": "My-Psd-File.pdf", "uploader": "Osama", "size": "4.5mb", "type": "psd" },
+      { "src":"./img/zip.svg ","name": "My-Zip-File.pdf", "uploader": "User", "size": "8.9mb", "type": "zip" },
+      { "src":"./img/dll.svg ","name": "My-DLL-File.pdf", "uploader": "Admin", "size": "4.9mb", "type": "dll" },
+      { "src":"./img/eps.svg ","name": "My-Eps-File.pdf", "uploader": "Designer", "size": "8.9mb", "type": "eps" }
     ],
     "lastProjectProgress": [
       { "status": "completed", "eng": { "step": "Got The Project" }, "ar": { "step": "استلام المشروع" } },
@@ -182,7 +182,7 @@
       { "date": "20/12/2022 - 12:00am", "color": "red", "eng": { "title": "Finish The Development Workshop" }, "ar": { "title": "إنهاء ورشة التطوير" } }
     ],
     "latestPost": {
-      "avatar": "/img/avatar.png",
+      "avatar": "./img/avatar.png",
       "likes": "1.8K",
       "comments": 500,
       "eng": {
@@ -239,10 +239,10 @@
     "client": "Ministry",
     "price": "$5300",
     "team": [
-      "/img/team-01.png",
-      "/img/team-02.png",
-      "/img/team-03.png",
-      "/img/team-04.png"
+      "./img/team-01.png",
+      "./img/team-02.png",
+      "./img/team-03.png",
+      "./img/team-04.png"
     ],
     "status": "Pending",
     "statusColors": {
@@ -267,9 +267,9 @@
     "client": "Elzero Company",
     "price": "$1500",
     "team": [
-      "/img/team-01.png",
-      "/img/team-02.png",
-      "/img/team-05.png"
+      "./img/team-01.png",
+      "./img/team-02.png",
+      "./img/team-05.png"
     ],
     "status": "In Progress",
     "statusColors": {
@@ -294,8 +294,8 @@
     "client": "Bouba",
     "price": "$800",
     "team": [
-      "/img/team-02.png",
-      "/img/team-05.png"
+      "./img/team-02.png",
+      "./img/team-05.png"
     ],
     "status": "Completed",
     "statusColors": {
@@ -320,8 +320,8 @@
     "client": "Mahmoud",
     "price": "$500",
     "team": [
-      "/img/team-01.png",
-      "/img/team-05.png"
+      "./img/team-01.png",
+      "./img/team-05.png"
     ],
     "status": "Completed",
     "statusColors": {
@@ -346,8 +346,8 @@
     "client": "Sayed",
     "price": "$300",
     "team": [
-      "/img/team-01.png",
-      "/img/team-02.png"
+      "./img/team-01.png",
+      "./img/team-02.png"
     ],
     "status": "Rejected",
     "statusColors": {
@@ -372,10 +372,10 @@
     "client": "Arena Company",
     "price": "$2500",
     "team": [
-      "/img/team-01.png",
-      "/img/team-03.png",
-      "/img/team-04.png",
-      "/img/team-05.png"
+      "./img/team-01.png",
+      "./img/team-03.png",
+      "./img/team-04.png",
+      "./img/team-05.png"
     ],
     "status": "Completed",
     "statusColors": {
@@ -402,7 +402,7 @@
       "id": 1,
       "finishDate": "10 May 2022",
       "price": 5300,
-      "team": ["/img/team-01.png", "/img/team-02.png", "/img/team-03.png", "/img/team-04.png"],
+      "team": ["./img/team-01.png", "./img/team-02.png", "./img/team-03.png", "./img/team-04.png"],
       "categories": ["Programming", "Design", "Hosting", "Marketing"],
       "progress": 50,
       "eng": { "name": "Ministry Wikipedia", "client": "Ministry", "status": "Pending", "description": "Ministry Wikipedia Project Design And Programming And Hosting" },
@@ -412,7 +412,7 @@
       "id": 2,
       "finishDate": "12 Oct 2021",
       "price": 1500,
-      "team": ["/img/team-01.png", "/img/team-02.png", "/img/team-03.png"],
+      "team": ["./img/team-01.png", "./img/team-02.png", "./img/team-03.png"],
       "categories": ["Programming", "Design"],
       "progress": 80,
       "eng": { "name": "Elzero Shop", "client": "Elzero Company", "status": "In Progress", "description": "Elzero Shop Project Design And Programming" },
@@ -422,7 +422,7 @@
       "id": 3,
       "finishDate": "05 Sep 2021",
       "price": 800,
-      "team": ["/img/team-02.png", "/img/team-03.png"],
+      "team": ["./img/team-02.png", "./img/team-03.png"],
       "categories": ["Design"],
       "progress": 100,
       "eng": { "name": "Bouba App", "client": "Bouba", "status": "Completed", "description": "Bouba App Project Design" },
@@ -432,7 +432,7 @@
       "id": 4,
       "finishDate": "22 May 2021",
       "price": 600,
-      "team": ["/img/team-01.png", "/img/team-02.png"],
+      "team": ["./img/team-01.png", "./img/team-02.png"],
       "categories": ["Programming", "Design"],
       "progress": 100,
       "eng": { "name": "Mahmoud Website", "client": "Mahmoud", "status": "Completed", "description": "Mahmoud Website Project Design And Programming" },
@@ -442,7 +442,7 @@
       "id": 5,
       "finishDate": "24 May 2021",
       "price": 300,
-      "team": ["/img/team-01.png", "/img/team-03.png"],
+      "team": ["./img/team-01.png", "./img/team-03.png"],
       "categories": ["Design"],
       "progress": 20,
       "eng": { "name": "Sayed Website", "client": "Sayed", "status": "Rejected", "description": "Sayed Website Project Design" },
@@ -452,7 +452,7 @@
       "id": 6,
       "finishDate": "01 Mar 2021",
       "price": 2600,
-      "team": ["/img/team-01.png", "/img/team-02.png", "/img/team-03.png", "/img/team-04.png"],
+      "team": ["./img/team-01.png", "./img/team-02.png", "./img/team-03.png", "./img/team-04.png"],
       "categories": ["Programming", "Design"],
       "progress": 100,
       "eng": { "name": "Arena Application", "client": "Arena Company", "status": "Completed", "description": "Arena Application Project Design And Programming" },
@@ -460,29 +460,29 @@
     }
   ],
   "courses": [
-    { "id": 1, "users": 950, "price": 165, "cover": "/img/course-01.jpg","photo": "/img/team-01.png", "eng": { "title": "Mastering Web Design", "description": "Master The Art Of Web Designing And Mocking, Prototyping And Creating Web Design Architecture", "instructor": "Osama" }, "ar": { "title": "إتقان تصميم الويب", "description": "إتقان فن تصميم المواقع وعمل النماذج المبدئية وهندسة واجهات الاستخدام", "instructor": "أسامة" } },
-    { "id": 2, "users": 1150, "price": 210, "cover":"/img/course-02.jpg","photo":"/img/team-02.png", "eng": { "title": "Data Structure And Algorithms", "description": "Master The Art Of Data Structure And Famous Algorithms Like Sorting, Dividing And Conquering", "instructor": "Osama" }, "ar": { "title": "هياكل البيانات والخوارزميات", "description": "إتقان هياكل البيانات والخوارزميات الشهيرة مثل الترتيب والتقسيم", "instructor": "أسامة" } },
-    { "id": 3, "users": 650, "price": 90, "cover":  "/img/course-03.jpg","photo":  "/img/team-03.png", "eng": { "title": "Responsive Web Design", "description": "Mastering Responsive Web Design And Media Queries And Know Everything About Breakpoints", "instructor": "Osama" }, "ar": { "title": "التصميم المتجاوب للمواقع", "description": "إتقان تصميم المواقع المتجاوبة مع الشاشات ومعرفة كل شيء عن نقاط الكسر", "instructor": "أسامة" } },
-    { "id": 4, "users": 950, "price": 250, "cover": "/img/course-04.jpg","photo": "/img/team-04.png", "eng": { "title": "Mastering Python", "description": "Mastering Python To Prepare For Data Science And AI And Automating Things in Your Life", "instructor": "Osama" }, "ar": { "title": "إتقان لغة بايثون", "description": "إتقان بايثون تمهيداً للدخول في علوم البيانات والذكاء الاصطناعي وأتمتة المهام", "instructor": "أسامة" } },
-    { "id": 5, "users": 850, "price": 150, "cover": "/img/course-05.jpg","photo": "/img/team-05.png", "eng": { "title": "PHP Examples", "description": "PHP Tutorials And Examples And Practice On Web Application And Connecting With Databases", "instructor": "Osama" }, "ar": { "title": "أمثلة وتطبيقات PHP", "description": "دروس وتطبيقات عملية بلغة PHP وربط تطبيقات الويب بقواعد البيانات", "instructor": "أسامة" } },
-   { "id": 1, "users": 950, "price": 165, "cover": "/img/course-01.jpg","photo": "/img/team-01.png", "eng": { "title": "Mastering Web Design", "description": "Master The Art Of Web Designing And Mocking, Prototyping And Creating Web Design Architecture", "instructor": "Osama" }, "ar": { "title": "إتقان تصميم الويب", "description": "إتقان فن تصميم المواقع وعمل النماذج المبدئية وهندسة واجهات الاستخدام", "instructor": "أسامة" } },
-    { "id": 2, "users": 1150, "price": 210, "cover":"/img/course-02.jpg","photo":"/img/team-02.png", "eng": { "title": "Data Structure And Algorithms", "description": "Master The Art Of Data Structure And Famous Algorithms Like Sorting, Dividing And Conquering", "instructor": "Osama" }, "ar": { "title": "هياكل البيانات والخوارزميات", "description": "إتقان هياكل البيانات والخوارزميات الشهيرة مثل الترتيب والتقسيم", "instructor": "أسامة" } },
-    { "id": 3, "users": 650, "price": 90, "cover":  "/img/course-03.jpg","photo":  "/img/team-03.png", "eng": { "title": "Responsive Web Design", "description": "Mastering Responsive Web Design And Media Queries And Know Everything About Breakpoints", "instructor": "Osama" }, "ar": { "title": "التصميم المتجاوب للمواقع", "description": "إتقان تصميم المواقع المتجاوبة مع الشاشات ومعرفة كل شيء عن نقاط الكسر", "instructor": "أسامة" } },
-    { "id": 4, "users": 950, "price": 250, "cover": "/img/course-04.jpg","photo": "/img/team-04.png", "eng": { "title": "Mastering Python", "description": "Mastering Python To Prepare For Data Science And AI And Automating Things in Your Life", "instructor": "Osama" }, "ar": { "title": "إتقان لغة بايثون", "description": "إتقان بايثون تمهيداً للدخول في علوم البيانات والذكاء الاصطناعي وأتمتة المهام", "instructor": "أسامة" } },
-    { "id": 5, "users": 850, "price": 150, "cover": "/img/course-05.jpg","photo": "/img/team-05.png", "eng": { "title": "PHP Examples", "description": "PHP Tutorials And Examples And Practice On Web Application And Connecting With Databases", "instructor": "Osama" }, "ar": { "title": "أمثلة وتطبيقات PHP", "description": "دروس وتطبيقات عملية بلغة PHP وربط تطبيقات الويب بقواعد البيانات", "instructor": "أسامة" } },
+    { "id": 1, "users": 950, "price": 165, "cover": "./img/course-01.jpg","photo": "./img/team-01.png", "eng": { "title": "Mastering Web Design", "description": "Master The Art Of Web Designing And Mocking, Prototyping And Creating Web Design Architecture", "instructor": "Osama" }, "ar": { "title": "إتقان تصميم الويب", "description": "إتقان فن تصميم المواقع وعمل النماذج المبدئية وهندسة واجهات الاستخدام", "instructor": "أسامة" } },
+    { "id": 2, "users": 1150, "price": 210, "cover":"./img/course-02.jpg","photo":"./img/team-02.png", "eng": { "title": "Data Structure And Algorithms", "description": "Master The Art Of Data Structure And Famous Algorithms Like Sorting, Dividing And Conquering", "instructor": "Osama" }, "ar": { "title": "هياكل البيانات والخوارزميات", "description": "إتقان هياكل البيانات والخوارزميات الشهيرة مثل الترتيب والتقسيم", "instructor": "أسامة" } },
+    { "id": 3, "users": 650, "price": 90, "cover":  "./img/course-03.jpg","photo":  "./img/team-03.png", "eng": { "title": "Responsive Web Design", "description": "Mastering Responsive Web Design And Media Queries And Know Everything About Breakpoints", "instructor": "Osama" }, "ar": { "title": "التصميم المتجاوب للمواقع", "description": "إتقان تصميم المواقع المتجاوبة مع الشاشات ومعرفة كل شيء عن نقاط الكسر", "instructor": "أسامة" } },
+    { "id": 4, "users": 950, "price": 250, "cover": "./img/course-04.jpg","photo": "./img/team-04.png", "eng": { "title": "Mastering Python", "description": "Mastering Python To Prepare For Data Science And AI And Automating Things in Your Life", "instructor": "Osama" }, "ar": { "title": "إتقان لغة بايثون", "description": "إتقان بايثون تمهيداً للدخول في علوم البيانات والذكاء الاصطناعي وأتمتة المهام", "instructor": "أسامة" } },
+    { "id": 5, "users": 850, "price": 150, "cover": "./img/course-05.jpg","photo": "./img/team-05.png", "eng": { "title": "PHP Examples", "description": "PHP Tutorials And Examples And Practice On Web Application And Connecting With Databases", "instructor": "Osama" }, "ar": { "title": "أمثلة وتطبيقات PHP", "description": "دروس وتطبيقات عملية بلغة PHP وربط تطبيقات الويب بقواعد البيانات", "instructor": "أسامة" } },
+   { "id": 1, "users": 950, "price": 165, "cover": "./img/course-01.jpg","photo": "./img/team-01.png", "eng": { "title": "Mastering Web Design", "description": "Master The Art Of Web Designing And Mocking, Prototyping And Creating Web Design Architecture", "instructor": "Osama" }, "ar": { "title": "إتقان تصميم الويب", "description": "إتقان فن تصميم المواقع وعمل النماذج المبدئية وهندسة واجهات الاستخدام", "instructor": "أسامة" } },
+    { "id": 2, "users": 1150, "price": 210, "cover":"./img/course-02.jpg","photo":"./img/team-02.png", "eng": { "title": "Data Structure And Algorithms", "description": "Master The Art Of Data Structure And Famous Algorithms Like Sorting, Dividing And Conquering", "instructor": "Osama" }, "ar": { "title": "هياكل البيانات والخوارزميات", "description": "إتقان هياكل البيانات والخوارزميات الشهيرة مثل الترتيب والتقسيم", "instructor": "أسامة" } },
+    { "id": 3, "users": 650, "price": 90, "cover":  "./img/course-03.jpg","photo":  "./img/team-03.png", "eng": { "title": "Responsive Web Design", "description": "Mastering Responsive Web Design And Media Queries And Know Everything About Breakpoints", "instructor": "Osama" }, "ar": { "title": "التصميم المتجاوب للمواقع", "description": "إتقان تصميم المواقع المتجاوبة مع الشاشات ومعرفة كل شيء عن نقاط الكسر", "instructor": "أسامة" } },
+    { "id": 4, "users": 950, "price": 250, "cover": "./img/course-04.jpg","photo": "./img/team-04.png", "eng": { "title": "Mastering Python", "description": "Mastering Python To Prepare For Data Science And AI And Automating Things in Your Life", "instructor": "Osama" }, "ar": { "title": "إتقان لغة بايثون", "description": "إتقان بايثون تمهيداً للدخول في علوم البيانات والذكاء الاصطناعي وأتمتة المهام", "instructor": "أسامة" } },
+    { "id": 5, "users": 850, "price": 150, "cover": "./img/course-05.jpg","photo": "./img/team-05.png", "eng": { "title": "PHP Examples", "description": "PHP Tutorials And Examples And Practice On Web Application And Connecting With Databases", "instructor": "Osama" }, "ar": { "title": "أمثلة وتطبيقات PHP", "description": "دروس وتطبيقات عملية بلغة PHP وربط تطبيقات الويب بقواعد البيانات", "instructor": "أسامة" } },
   
-      { "id": 1, "users": 950, "price": 165, "cover": "/img/course-01.jpg","photo": "/img/team-01.png", "eng": { "title": "Mastering Web Design", "description": "Master The Art Of Web Designing And Mocking, Prototyping And Creating Web Design Architecture", "instructor": "Osama" }, "ar": { "title": "إتقان تصميم الويب", "description": "إتقان فن تصميم المواقع وعمل النماذج المبدئية وهندسة واجهات الاستخدام", "instructor": "أسامة" } },
-    { "id": 2, "users": 1150, "price": 210, "cover":"/img/course-02.jpg","photo":"/img/team-02.png", "eng": { "title": "Data Structure And Algorithms", "description": "Master The Art Of Data Structure And Famous Algorithms Like Sorting, Dividing And Conquering", "instructor": "Osama" }, "ar": { "title": "هياكل البيانات والخوارزميات", "description": "إتقان هياكل البيانات والخوارزميات الشهيرة مثل الترتيب والتقسيم", "instructor": "أسامة" } },
-    { "id": 3, "users": 650, "price": 90, "cover":  "/img/course-03.jpg","photo":  "/img/team-03.png", "eng": { "title": "Responsive Web Design", "description": "Mastering Responsive Web Design And Media Queries And Know Everything About Breakpoints", "instructor": "Osama" }, "ar": { "title": "التصميم المتجاوب للمواقع", "description": "إتقان تصميم المواقع المتجاوبة مع الشاشات ومعرفة كل شيء عن نقاط الكسر", "instructor": "أسامة" } },
-    { "id": 4, "users": 950, "price": 250, "cover": "/img/course-04.jpg","photo": "/img/team-04.png", "eng": { "title": "Mastering Python", "description": "Mastering Python To Prepare For Data Science And AI And Automating Things in Your Life", "instructor": "Osama" }, "ar": { "title": "إتقان لغة بايثون", "description": "إتقان بايثون تمهيداً للدخول في علوم البيانات والذكاء الاصطناعي وأتمتة المهام", "instructor": "أسامة" } },
-    { "id": 5, "users": 850, "price": 150, "cover": "/img/course-05.jpg","photo": "/img/team-05.png", "eng": { "title": "PHP Examples", "description": "PHP Tutorials And Examples And Practice On Web Application And Connecting With Databases", "instructor": "Osama" }, "ar": { "title": "أمثلة وتطبيقات PHP", "description": "دروس وتطبيقات عملية بلغة PHP وربط تطبيقات الويب بقواعد البيانات", "instructor": "أسامة" } }
+      { "id": 1, "users": 950, "price": 165, "cover": "./img/course-01.jpg","photo": "./img/team-01.png", "eng": { "title": "Mastering Web Design", "description": "Master The Art Of Web Designing And Mocking, Prototyping And Creating Web Design Architecture", "instructor": "Osama" }, "ar": { "title": "إتقان تصميم الويب", "description": "إتقان فن تصميم المواقع وعمل النماذج المبدئية وهندسة واجهات الاستخدام", "instructor": "أسامة" } },
+    { "id": 2, "users": 1150, "price": 210, "cover":"./img/course-02.jpg","photo":"./img/team-02.png", "eng": { "title": "Data Structure And Algorithms", "description": "Master The Art Of Data Structure And Famous Algorithms Like Sorting, Dividing And Conquering", "instructor": "Osama" }, "ar": { "title": "هياكل البيانات والخوارزميات", "description": "إتقان هياكل البيانات والخوارزميات الشهيرة مثل الترتيب والتقسيم", "instructor": "أسامة" } },
+    { "id": 3, "users": 650, "price": 90, "cover":  "./img/course-03.jpg","photo":  "./img/team-03.png", "eng": { "title": "Responsive Web Design", "description": "Mastering Responsive Web Design And Media Queries And Know Everything About Breakpoints", "instructor": "Osama" }, "ar": { "title": "التصميم المتجاوب للمواقع", "description": "إتقان تصميم المواقع المتجاوبة مع الشاشات ومعرفة كل شيء عن نقاط الكسر", "instructor": "أسامة" } },
+    { "id": 4, "users": 950, "price": 250, "cover": "./img/course-04.jpg","photo": "./img/team-04.png", "eng": { "title": "Mastering Python", "description": "Mastering Python To Prepare For Data Science And AI And Automating Things in Your Life", "instructor": "Osama" }, "ar": { "title": "إتقان لغة بايثون", "description": "إتقان بايثون تمهيداً للدخول في علوم البيانات والذكاء الاصطناعي وأتمتة المهام", "instructor": "أسامة" } },
+    { "id": 5, "users": 850, "price": 150, "cover": "./img/course-05.jpg","photo": "./img/team-05.png", "eng": { "title": "PHP Examples", "description": "PHP Tutorials And Examples And Practice On Web Application And Connecting With Databases", "instructor": "Osama" }, "ar": { "title": "أمثلة وتطبيقات PHP", "description": "دروس وتطبيقات عملية بلغة PHP وربط تطبيقات الويب بقواعد البيانات", "instructor": "أسامة" } }
   
   ],
  
   "profile": {
     "user_info": {
       "name": "Osama Elzero",
-      "avatar": "/img/avatar.png",
+      "avatar": "./img/avatar.png",
       "level": 20,
       "rating": 550,
       "stars": 5
@@ -538,7 +538,7 @@
     "latest_activities": [
       {
         "id": 1,
-        "src":"/img/activity-01.png",
+        "src":"./img/activity-01.png",
         "type": "store",
         "title": {
           "eng": "Store",
@@ -556,7 +556,7 @@
       },
       {
         "id": 2,
-        "src":"/img/activity-02.png",
+        "src":"./img/activity-02.png",
         "type": "academy",
         "title": {
           "eng": "Academy",
@@ -574,7 +574,7 @@
       },
       {
         "id": 3,
-        "src":"/img/activity-03.png",
+        "src":"./img/activity-03.png",
         "type": "badges",
         "title": {
           "eng": "Badges",
@@ -592,7 +592,7 @@
       },
       {
         "id": 4,
-        "src":"/img/activity-04.png",
+        "src":"./img/activity-04.png",
         "type": "store",
         "title": {
           "eng": "Store",
@@ -611,49 +611,49 @@
     ]
 },
   "friends": [
-    { "id": 1, "friendsCount": 99, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2021", "vip": true,  "avatar": "/img/friend-01.jpg", "eng": { "name": "Ahmed Nasser", "role": "JavaScript Developer" }, "ar": { "name": "أحمد ناصر", "role": "مطور جافا سكريبت" } },
-    { "id": 2, "friendsCount": 30, "projectsCount": 11, "articlesCount": 12, "joinedDate": "02/08/2020", "vip": false, "avatar": "/img/friend-02.jpg", "eng": { "name": "Omar Fathy", "role": "Cloud Developer" }, "ar": { "name": "عمر فتحي", "role": "مطور الحوسبة السحابية" } },
-    { "id": 3, "friendsCount": 80, "projectsCount": 20, "articlesCount": 18, "joinedDate": "02/06/2020", "vip": false, "avatar": "/img/friend-03.jpg", "eng": { "name": "Omar Ahmed", "role": "Mobile Developer" }, "ar": { "name": "عمر أحمد", "role": "مطور تطبيقات الجوال" } },
-    { "id": 4, "friendsCount": 70, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/06/2020", "vip": false, "avatar": "/img/friend-04.jpg", "eng": { "name": "Shady Nabil", "role": "Back-End Developer" }, "ar": { "name": "شادي نبيل", "role": "مطور خلفيات برمجية" } },
-    { "id": 5, "friendsCount": 80, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/08/2020", "vip": false, "avatar": "/img/friend-05.jpg", "eng": { "name": "Mohamed Ibrahim", "role": "Algorithm Developer" }, "ar": { "name": "محمد إبراهيم", "role": "مطور خوارزميات" } },
-    { "id": 6, "friendsCount": 90, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2020", "vip": true,  "avatar": "/img/friend-01.jpg", "eng": { "name": "Gareeb Elshiekh", "role": "JavaScript Developer" }, "ar": { "name": "غريب الشيخ", "role": "مطور جافا سكريبت" } },
-     { "id": 1, "friendsCount": 99, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2021", "vip": true,  "avatar": "/img/friend-01.jpg", "eng": { "name": "Ahmed Nasser", "role": "JavaScript Developer" }, "ar": { "name": "أحمد ناصر", "role": "مطور جافا سكريبت" } },
-    { "id": 2, "friendsCount": 30, "projectsCount": 11, "articlesCount": 12, "joinedDate": "02/08/2020", "vip": false, "avatar": "/img/friend-02.jpg", "eng": { "name": "Omar Fathy", "role": "Cloud Developer" }, "ar": { "name": "عمر فتحي", "role": "مطور الحوسبة السحابية" } },
-    { "id": 3, "friendsCount": 80, "projectsCount": 20, "articlesCount": 18, "joinedDate": "02/06/2020", "vip": false, "avatar": "/img/friend-03.jpg", "eng": { "name": "Omar Ahmed", "role": "Mobile Developer" }, "ar": { "name": "عمر أحمد", "role": "مطور تطبيقات الجوال" } },
-    { "id": 4, "friendsCount": 70, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/06/2020", "vip": false, "avatar": "/img/friend-04.jpg", "eng": { "name": "Shady Nabil", "role": "Back-End Developer" }, "ar": { "name": "شادي نبيل", "role": "مطور خلفيات برمجية" } },
-    { "id": 5, "friendsCount": 80, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/08/2020", "vip": false, "avatar": "/img/friend-05.jpg", "eng": { "name": "Mohamed Ibrahim", "role": "Algorithm Developer" }, "ar": { "name": "محمد إبراهيم", "role": "مطور خوارزميات" } },
-    { "id": 6, "friendsCount": 90, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2020", "vip": true,  "avatar": "/img/friend-01.jpg", "eng": { "name": "Gareeb Elshiekh", "role": "JavaScript Developer" }, "ar": { "name": "غريب الشيخ", "role": "مطور جافا سكريبت" } },    { "id": 1, "friendsCount": 99, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2021", "vip": true,  "avatar": "/img/friend-01.jpg", "eng": { "name": "Ahmed Nasser", "role": "JavaScript Developer" }, "ar": { "name": "أحمد ناصر", "role": "مطور جافا سكريبت" } },
-    { "id": 2, "friendsCount": 30, "projectsCount": 11, "articlesCount": 12, "joinedDate": "02/08/2020", "vip": false, "avatar": "/img/friend-02.jpg", "eng": { "name": "Omar Fathy", "role": "Cloud Developer" }, "ar": { "name": "عمر فتحي", "role": "مطور الحوسبة السحابية" } },
-    { "id": 3, "friendsCount": 80, "projectsCount": 20, "articlesCount": 18, "joinedDate": "02/06/2020", "vip": false, "avatar": "/img/friend-03.jpg", "eng": { "name": "Omar Ahmed", "role": "Mobile Developer" }, "ar": { "name": "عمر أحمد", "role": "مطور تطبيقات الجوال" } },
-    { "id": 4, "friendsCount": 70, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/06/2020", "vip": false, "avatar": "/img/friend-04.jpg", "eng": { "name": "Shady Nabil", "role": "Back-End Developer" }, "ar": { "name": "شادي نبيل", "role": "مطور خلفيات برمجية" } },
-    { "id": 5, "friendsCount": 80, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/08/2020", "vip": false, "avatar": "/img/friend-05.jpg", "eng": { "name": "Mohamed Ibrahim", "role": "Algorithm Developer" }, "ar": { "name": "محمد إبراهيم", "role": "مطور خوارزميات" } },
-    { "id": 6, "friendsCount": 90, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2020", "vip": true,  "avatar": "/img/friend-01.jpg", "eng": { "name": "Gareeb Elshiekh", "role": "JavaScript Developer" }, "ar": { "name": "غريب الشيخ", "role": "مطور جافا سكريبت" } }
+    { "id": 1, "friendsCount": 99, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2021", "vip": true,  "avatar": "./img/friend-01.jpg", "eng": { "name": "Ahmed Nasser", "role": "JavaScript Developer" }, "ar": { "name": "أحمد ناصر", "role": "مطور جافا سكريبت" } },
+    { "id": 2, "friendsCount": 30, "projectsCount": 11, "articlesCount": 12, "joinedDate": "02/08/2020", "vip": false, "avatar": "./img/friend-02.jpg", "eng": { "name": "Omar Fathy", "role": "Cloud Developer" }, "ar": { "name": "عمر فتحي", "role": "مطور الحوسبة السحابية" } },
+    { "id": 3, "friendsCount": 80, "projectsCount": 20, "articlesCount": 18, "joinedDate": "02/06/2020", "vip": false, "avatar": "./img/friend-03.jpg", "eng": { "name": "Omar Ahmed", "role": "Mobile Developer" }, "ar": { "name": "عمر أحمد", "role": "مطور تطبيقات الجوال" } },
+    { "id": 4, "friendsCount": 70, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/06/2020", "vip": false, "avatar": "./img/friend-04.jpg", "eng": { "name": "Shady Nabil", "role": "Back-End Developer" }, "ar": { "name": "شادي نبيل", "role": "مطور خلفيات برمجية" } },
+    { "id": 5, "friendsCount": 80, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/08/2020", "vip": false, "avatar": "./img/friend-05.jpg", "eng": { "name": "Mohamed Ibrahim", "role": "Algorithm Developer" }, "ar": { "name": "محمد إبراهيم", "role": "مطور خوارزميات" } },
+    { "id": 6, "friendsCount": 90, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2020", "vip": true,  "avatar": "./img/friend-01.jpg", "eng": { "name": "Gareeb Elshiekh", "role": "JavaScript Developer" }, "ar": { "name": "غريب الشيخ", "role": "مطور جافا سكريبت" } },
+     { "id": 1, "friendsCount": 99, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2021", "vip": true,  "avatar": "./img/friend-01.jpg", "eng": { "name": "Ahmed Nasser", "role": "JavaScript Developer" }, "ar": { "name": "أحمد ناصر", "role": "مطور جافا سكريبت" } },
+    { "id": 2, "friendsCount": 30, "projectsCount": 11, "articlesCount": 12, "joinedDate": "02/08/2020", "vip": false, "avatar": "./img/friend-02.jpg", "eng": { "name": "Omar Fathy", "role": "Cloud Developer" }, "ar": { "name": "عمر فتحي", "role": "مطور الحوسبة السحابية" } },
+    { "id": 3, "friendsCount": 80, "projectsCount": 20, "articlesCount": 18, "joinedDate": "02/06/2020", "vip": false, "avatar": "./img/friend-03.jpg", "eng": { "name": "Omar Ahmed", "role": "Mobile Developer" }, "ar": { "name": "عمر أحمد", "role": "مطور تطبيقات الجوال" } },
+    { "id": 4, "friendsCount": 70, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/06/2020", "vip": false, "avatar": "./img/friend-04.jpg", "eng": { "name": "Shady Nabil", "role": "Back-End Developer" }, "ar": { "name": "شادي نبيل", "role": "مطور خلفيات برمجية" } },
+    { "id": 5, "friendsCount": 80, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/08/2020", "vip": false, "avatar": "./img/friend-05.jpg", "eng": { "name": "Mohamed Ibrahim", "role": "Algorithm Developer" }, "ar": { "name": "محمد إبراهيم", "role": "مطور خوارزميات" } },
+    { "id": 6, "friendsCount": 90, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2020", "vip": true,  "avatar": "./img/friend-01.jpg", "eng": { "name": "Gareeb Elshiekh", "role": "JavaScript Developer" }, "ar": { "name": "غريب الشيخ", "role": "مطور جافا سكريبت" } },    { "id": 1, "friendsCount": 99, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2021", "vip": true,  "avatar": "./img/friend-01.jpg", "eng": { "name": "Ahmed Nasser", "role": "JavaScript Developer" }, "ar": { "name": "أحمد ناصر", "role": "مطور جافا سكريبت" } },
+    { "id": 2, "friendsCount": 30, "projectsCount": 11, "articlesCount": 12, "joinedDate": "02/08/2020", "vip": false, "avatar": "./img/friend-02.jpg", "eng": { "name": "Omar Fathy", "role": "Cloud Developer" }, "ar": { "name": "عمر فتحي", "role": "مطور الحوسبة السحابية" } },
+    { "id": 3, "friendsCount": 80, "projectsCount": 20, "articlesCount": 18, "joinedDate": "02/06/2020", "vip": false, "avatar": "./img/friend-03.jpg", "eng": { "name": "Omar Ahmed", "role": "Mobile Developer" }, "ar": { "name": "عمر أحمد", "role": "مطور تطبيقات الجوال" } },
+    { "id": 4, "friendsCount": 70, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/06/2020", "vip": false, "avatar": "./img/friend-04.jpg", "eng": { "name": "Shady Nabil", "role": "Back-End Developer" }, "ar": { "name": "شادي نبيل", "role": "مطور خلفيات برمجية" } },
+    { "id": 5, "friendsCount": 80, "projectsCount": 30, "articlesCount": 18, "joinedDate": "28/08/2020", "vip": false, "avatar": "./img/friend-05.jpg", "eng": { "name": "Mohamed Ibrahim", "role": "Algorithm Developer" }, "ar": { "name": "محمد إبراهيم", "role": "مطور خوارزميات" } },
+    { "id": 6, "friendsCount": 90, "projectsCount": 15, "articlesCount": 25, "joinedDate": "02/10/2020", "vip": true,  "avatar": "./img/friend-01.jpg", "eng": { "name": "Gareeb Elshiekh", "role": "JavaScript Developer" }, "ar": { "name": "غريب الشيخ", "role": "مطور جافا سكريبت" } }
   ],
   
   "files": {
     "list": [
-      { "id": 1, "src":"/img/pdf.svg", "date": "20/06/2020", "size": "5.5MB", "type": "PDF", "eng": { "name": "my-file.pdf", "uploader": "Elzero" }, "ar": { "name": "ملفي.pdf", "uploader": "الزيرو" } },
-      { "id": 2, "src":"/img/avi.svg", "date": "16/5/2021", "size": "12.5MB", "type": "AVI", "eng": { "name": "my-file.avi", "uploader": "Admin" }, "ar": { "name": "ملفي.avi", "uploader": "الأدمن" } },
-      { "id": 3, "src":"/img/psd.svg", "date": "16/5/2021", "size": "2.7MB", "type": "EPS", "eng": { "name": "my-file.eps", "uploader": "Uploader" }, "ar": { "name": "ملفي.eps", "uploader": "الرافع" } },
-      { "id": 4, "src":"/img/zip.svg", "date": "16/5/2021", "size": "15.1MB", "type": "PSD", "eng": { "name": "my-file.psd", "uploader": "Osama" }, "ar": { "name": "ملفي.psd", "uploader": "أسامة" } },
-      { "id": 5, "src":"/img/dll.svg", "date": "16/5/2021", "size": "2.2MB", "type": "DLL", "eng": { "name": "my-file.dll", "uploader": "Coder" }, "ar": { "name": "ملفي.dll", "uploader": "المبرمج" } },
-      { "id": 6, "src":"/img/eps.svg", "date": "16/5/2021", "size": "1.1MB", "type": "PNG", "eng": { "name": "my-file.png", "uploader": "Designer" }, "ar": { "name": "ملفي.png", "uploader": "المصمم" } },
-       { "id": 1, "src":"/img/pdf.svg", "date": "20/06/2020", "size": "5.5MB", "type": "PDF", "eng": { "name": "my-file.pdf", "uploader": "Elzero" }, "ar": { "name": "ملفي.pdf", "uploader": "الزيرو" } },
-      { "id": 2, "src":"/img/avi.svg", "date": "16/5/2021", "size": "12.5MB", "type": "AVI", "eng": { "name": "my-file.avi", "uploader": "Admin" }, "ar": { "name": "ملفي.avi", "uploader": "الأدمن" } },
-      { "id": 3, "src":"/img/psd.svg", "date": "16/5/2021", "size": "2.7MB", "type": "EPS", "eng": { "name": "my-file.eps", "uploader": "Uploader" }, "ar": { "name": "ملفي.eps", "uploader": "الرافع" } },
-      { "id": 4, "src":"/img/zip.svg", "date": "16/5/2021", "size": "15.1MB", "type": "PSD", "eng": { "name": "my-file.psd", "uploader": "Osama" }, "ar": { "name": "ملفي.psd", "uploader": "أسامة" } },
-      { "id": 5, "src":"/img/dll.svg", "date": "16/5/2021", "size": "2.2MB", "type": "DLL", "eng": { "name": "my-file.dll", "uploader": "Coder" }, "ar": { "name": "ملفي.dll", "uploader": "المبرمج" } },
-      { "id": 6, "src":"/img/eps.svg", "date": "16/5/2021", "size": "1.1MB", "type": "PNG", "eng": { "name": "my-file.png", "uploader": "Designer" }, "ar": { "name": "ملفي.png", "uploader": "المصمم" } },   { "id": 1, "src":"/img/pdf.svg", "date": "20/06/2020", "size": "5.5MB", "type": "PDF", "eng": { "name": "my-file.pdf", "uploader": "Elzero" }, "ar": { "name": "ملفي.pdf", "uploader": "الزيرو" } },
-      { "id": 2, "src":"/img/avi.svg", "date": "16/5/2021", "size": "12.5MB", "type": "AVI", "eng": { "name": "my-file.avi", "uploader": "Admin" }, "ar": { "name": "ملفي.avi", "uploader": "الأدمن" } },
-      { "id": 3, "src":"/img/psd.svg", "date": "16/5/2021", "size": "2.7MB", "type": "EPS", "eng": { "name": "my-file.eps", "uploader": "Uploader" }, "ar": { "name": "ملفي.eps", "uploader": "الرافع" } },
-      { "id": 4, "src":"/img/zip.svg", "date": "16/5/2021", "size": "15.1MB", "type": "PSD", "eng": { "name": "my-file.psd", "uploader": "Osama" }, "ar": { "name": "ملفي.psd", "uploader": "أسامة" } },
-      { "id": 5, "src":"/img/dll.svg", "date": "16/5/2021", "size": "2.2MB", "type": "DLL", "eng": { "name": "my-file.dll", "uploader": "Coder" }, "ar": { "name": "ملفي.dll", "uploader": "المبرمج" } },
-      { "id": 6, "src":"/img/eps.svg", "date": "16/5/2021", "size": "1.1MB", "type": "PNG", "eng": { "name": "my-file.png", "uploader": "Designer" }, "ar": { "name": "ملفي.png", "uploader": "المصمم" } },   { "id": 1, "src":"/img/pdf.svg", "date": "20/06/2020", "size": "5.5MB", "type": "PDF", "eng": { "name": "my-file.pdf", "uploader": "Elzero" }, "ar": { "name": "ملفي.pdf", "uploader": "الزيرو" } },
-      { "id": 2, "src":"/img/avi.svg", "date": "16/5/2021", "size": "12.5MB", "type": "AVI", "eng": { "name": "my-file.avi", "uploader": "Admin" }, "ar": { "name": "ملفي.avi", "uploader": "الأدمن" } },
-      { "id": 3, "src":"/img/psd.svg", "date": "16/5/2021", "size": "2.7MB", "type": "EPS", "eng": { "name": "my-file.eps", "uploader": "Uploader" }, "ar": { "name": "ملفي.eps", "uploader": "الرافع" } },
-      { "id": 4, "src":"/img/zip.svg", "date": "16/5/2021", "size": "15.1MB", "type": "PSD", "eng": { "name": "my-file.psd", "uploader": "Osama" }, "ar": { "name": "ملفي.psd", "uploader": "أسامة" } },
-      { "id": 5, "src":"/img/dll.svg", "date": "16/5/2021", "size": "2.2MB", "type": "DLL", "eng": { "name": "my-file.dll", "uploader": "Coder" }, "ar": { "name": "ملفي.dll", "uploader": "المبرمج" } },
-      { "id": 6, "src":"/img/eps.svg", "date": "16/5/2021", "size": "1.1MB", "type": "PNG", "eng": { "name": "my-file.png", "uploader": "Designer" }, "ar": { "name": "ملفي.png", "uploader": "المصمم" } }
+      { "id": 1, "src":"./img/pdf.svg", "date": "20/06/2020", "size": "5.5MB", "type": "PDF", "eng": { "name": "my-file.pdf", "uploader": "Elzero" }, "ar": { "name": "ملفي.pdf", "uploader": "الزيرو" } },
+      { "id": 2, "src":"./img/avi.svg", "date": "16/5/2021", "size": "12.5MB", "type": "AVI", "eng": { "name": "my-file.avi", "uploader": "Admin" }, "ar": { "name": "ملفي.avi", "uploader": "الأدمن" } },
+      { "id": 3, "src":"./img/psd.svg", "date": "16/5/2021", "size": "2.7MB", "type": "EPS", "eng": { "name": "my-file.eps", "uploader": "Uploader" }, "ar": { "name": "ملفي.eps", "uploader": "الرافع" } },
+      { "id": 4, "src":"./img/zip.svg", "date": "16/5/2021", "size": "15.1MB", "type": "PSD", "eng": { "name": "my-file.psd", "uploader": "Osama" }, "ar": { "name": "ملفي.psd", "uploader": "أسامة" } },
+      { "id": 5, "src":"./img/dll.svg", "date": "16/5/2021", "size": "2.2MB", "type": "DLL", "eng": { "name": "my-file.dll", "uploader": "Coder" }, "ar": { "name": "ملفي.dll", "uploader": "المبرمج" } },
+      { "id": 6, "src":"./img/eps.svg", "date": "16/5/2021", "size": "1.1MB", "type": "PNG", "eng": { "name": "my-file.png", "uploader": "Designer" }, "ar": { "name": "ملفي.png", "uploader": "المصمم" } },
+       { "id": 1, "src":"./img/pdf.svg", "date": "20/06/2020", "size": "5.5MB", "type": "PDF", "eng": { "name": "my-file.pdf", "uploader": "Elzero" }, "ar": { "name": "ملفي.pdf", "uploader": "الزيرو" } },
+      { "id": 2, "src":"./img/avi.svg", "date": "16/5/2021", "size": "12.5MB", "type": "AVI", "eng": { "name": "my-file.avi", "uploader": "Admin" }, "ar": { "name": "ملفي.avi", "uploader": "الأدمن" } },
+      { "id": 3, "src":"./img/psd.svg", "date": "16/5/2021", "size": "2.7MB", "type": "EPS", "eng": { "name": "my-file.eps", "uploader": "Uploader" }, "ar": { "name": "ملفي.eps", "uploader": "الرافع" } },
+      { "id": 4, "src":"./img/zip.svg", "date": "16/5/2021", "size": "15.1MB", "type": "PSD", "eng": { "name": "my-file.psd", "uploader": "Osama" }, "ar": { "name": "ملفي.psd", "uploader": "أسامة" } },
+      { "id": 5, "src":"./img/dll.svg", "date": "16/5/2021", "size": "2.2MB", "type": "DLL", "eng": { "name": "my-file.dll", "uploader": "Coder" }, "ar": { "name": "ملفي.dll", "uploader": "المبرمج" } },
+      { "id": 6, "src":"./img/eps.svg", "date": "16/5/2021", "size": "1.1MB", "type": "PNG", "eng": { "name": "my-file.png", "uploader": "Designer" }, "ar": { "name": "ملفي.png", "uploader": "المصمم" } },   { "id": 1, "src":"./img/pdf.svg", "date": "20/06/2020", "size": "5.5MB", "type": "PDF", "eng": { "name": "my-file.pdf", "uploader": "Elzero" }, "ar": { "name": "ملفي.pdf", "uploader": "الزيرو" } },
+      { "id": 2, "src":"./img/avi.svg", "date": "16/5/2021", "size": "12.5MB", "type": "AVI", "eng": { "name": "my-file.avi", "uploader": "Admin" }, "ar": { "name": "ملفي.avi", "uploader": "الأدمن" } },
+      { "id": 3, "src":"./img/psd.svg", "date": "16/5/2021", "size": "2.7MB", "type": "EPS", "eng": { "name": "my-file.eps", "uploader": "Uploader" }, "ar": { "name": "ملفي.eps", "uploader": "الرافع" } },
+      { "id": 4, "src":"./img/zip.svg", "date": "16/5/2021", "size": "15.1MB", "type": "PSD", "eng": { "name": "my-file.psd", "uploader": "Osama" }, "ar": { "name": "ملفي.psd", "uploader": "أسامة" } },
+      { "id": 5, "src":"./img/dll.svg", "date": "16/5/2021", "size": "2.2MB", "type": "DLL", "eng": { "name": "my-file.dll", "uploader": "Coder" }, "ar": { "name": "ملفي.dll", "uploader": "المبرمج" } },
+      { "id": 6, "src":"./img/eps.svg", "date": "16/5/2021", "size": "1.1MB", "type": "PNG", "eng": { "name": "my-file.png", "uploader": "Designer" }, "ar": { "name": "ملفي.png", "uploader": "المصمم" } },   { "id": 1, "src":"./img/pdf.svg", "date": "20/06/2020", "size": "5.5MB", "type": "PDF", "eng": { "name": "my-file.pdf", "uploader": "Elzero" }, "ar": { "name": "ملفي.pdf", "uploader": "الزيرو" } },
+      { "id": 2, "src":"./img/avi.svg", "date": "16/5/2021", "size": "12.5MB", "type": "AVI", "eng": { "name": "my-file.avi", "uploader": "Admin" }, "ar": { "name": "ملفي.avi", "uploader": "الأدمن" } },
+      { "id": 3, "src":"./img/psd.svg", "date": "16/5/2021", "size": "2.7MB", "type": "EPS", "eng": { "name": "my-file.eps", "uploader": "Uploader" }, "ar": { "name": "ملفي.eps", "uploader": "الرافع" } },
+      { "id": 4, "src":"./img/zip.svg", "date": "16/5/2021", "size": "15.1MB", "type": "PSD", "eng": { "name": "my-file.psd", "uploader": "Osama" }, "ar": { "name": "ملفي.psd", "uploader": "أسامة" } },
+      { "id": 5, "src":"./img/dll.svg", "date": "16/5/2021", "size": "2.2MB", "type": "DLL", "eng": { "name": "my-file.dll", "uploader": "Coder" }, "ar": { "name": "ملفي.dll", "uploader": "المبرمج" } },
+      { "id": 6, "src":"./img/eps.svg", "date": "16/5/2021", "size": "1.1MB", "type": "PNG", "eng": { "name": "my-file.png", "uploader": "Designer" }, "ar": { "name": "ملفي.png", "uploader": "المصمم" } }
     ],
     "statistics": [
       { "count": 130, "size": "6.5GB",  "icon": "fa-regular fa-file-pdf fa-lg", "color": "#0000ff", "eng": { "type": "PDF Files" }, "ar": { "type": "ملفات PDF" } },
