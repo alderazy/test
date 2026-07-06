@@ -67,7 +67,7 @@
                             
                         </div>
                         <div class="flex-1 h-[100px] aspect-video">
-                            <img class="w-full h-full" src="/img/wlcome.svg" alt="wlcome" fetchpriority="high">
+                            <img class="w-full h-full" src="./img/wlcome.svg" alt="wlcome" fetchpriority="high">
                         </div>
                   </div>
                   <hr class="mt-20">
